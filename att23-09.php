@@ -9,7 +9,7 @@
 <body>
     <header>
         <div class="header-container">
-            <h1>ByteTech</h1>
+            <h1><b>ByteTech</b></h1>
             <p>Seu mundo, mais tecnológico.</p>
         </div>
     </header>
@@ -19,7 +19,7 @@
     <img src="./img/headset.webp" alt="headset" width="300">
 
     <div class="card-conteudo">
-      <h2>HEADSET</h2>
+      <h2><b>HEADSET</b></h2>
       <p>
         R$ 1.529,91
       </p>
@@ -32,7 +32,7 @@
     <img src="./img/monitor.jpg" alt="monitor" width="300">
 
     <div class="card-conteudo">
-      <h2>MONITOR</h2>
+      <h2><b>MONITOR</b></h2>
       <p>
         R$ 902,40
       </p>
@@ -45,7 +45,7 @@
     <img src="./img/mouse.webp" alt="mouse" width="300">
 
     <div class="card-conteudo">
-      <h2>MOUSE</h2>
+      <h2><b>MOUSE</b></h2>
       <p>
         R$ 55,90
       </p>
@@ -58,7 +58,7 @@
     <img src="./img/rtx.png" alt="rtx" width="300">
 
     <div class="card-conteudo">
-      <h2>RTX</h2>
+      <h2><b>RTX</b></h2>
       <p>
         R$ 2.999,99
       </p>
@@ -71,7 +71,7 @@
     <img src="./img/pc.jpg" alt="pc" width="300">
 
     <div class="card-conteudo">
-      <h2>PC</h2>
+      <h2><b>PC</b></h2>
       <p>
         R$ 3.532,13
       </p>
